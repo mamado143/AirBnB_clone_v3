@@ -2,3 +2,36 @@
 
 
 ## Mohamed Dahir Mohamoud
+AirBnB Clone Project
+This is a simplified clone of the AirBnB application, providing the foundational structure for a simple online marketplace for home sharing.
+
+Description
+The AirBnB clone project is a multi-faceted application that covers fundamental concepts of software engineering, including:
+
+Data modeling
+Storage handling
+API
+Web framework
+Installation
+To get started with this project, clone the repository to your local machine.
+
+AirBnB_clone_v3
+Install the necessary dependencies:
+
+txt
+Usage
+To start the console application, run:
+
+Contributing
+Contributions are welcome! Please read the contributing guidelines first.
+
+Authors
+Mohamed Dahir Mohamoud
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Contact
+If you have any questions, feel free to reach out to me at my email (add your email here).
+
+Acknowledgements
+This project is part of the curriculum for the Software Engineering track at Holberton School.
